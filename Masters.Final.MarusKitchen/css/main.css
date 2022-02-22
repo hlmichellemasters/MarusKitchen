@@ -314,6 +314,10 @@ h3.comments {
     text-align: center;
 }
 
+.comments {
+    width: 100%;
+}        
+
 .checkboxes, .yesOrNo {
     text-align: center;
 }
