@@ -315,7 +315,6 @@ h3.comments {
 }
 
 #comments {
-    max-width: 95%;
     rows: 5;
     cols: 60;
 }        
