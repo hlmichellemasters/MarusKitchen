@@ -315,8 +315,7 @@ h3.comments {
 }
 
 #comments {
-    rows: 5;
-    cols: 60;
+    max-width: 95%
 }        
 
 .checkboxes, .yesOrNo {
