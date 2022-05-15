@@ -1,3 +1,3 @@
 # MarusKitchen
 
-Check out my first webpage live here: https://hlmichellemasters.github.io/MarusKitchen/
+Check out my first website live here: https://hlmichellemasters.github.io/MarusKitchen/
